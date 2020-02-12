@@ -1,0 +1,7 @@
+jdbcSettings:
+  url: "jdbc:mysql://mysql.cc.puv.fi:3306/e1800935_northwind"
+  username: "e1800935"
+  password: "ADNndy5d5Pxr"
+  driverClassName: "com.mysql.jdbc.Driver"
+
+packageName: "fi.vamk.e1800935.northwind"
